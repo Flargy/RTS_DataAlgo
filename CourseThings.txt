@@ -1,0 +1,21 @@
+perlin noise
+voronoi
+
+A*
+
+
+descision tree
+serach tree
+
+Kd tree
+
+
+spatial repartition
+
+Combinatory for optimization
+
+neural network, AI
+
+Sorting algorithms
+
+Classifing algorithms
