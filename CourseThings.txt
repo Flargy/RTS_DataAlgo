@@ -19,3 +19,15 @@ neural network, AI
 Sorting algorithms
 
 Classifing algorithms
+
+
+Target
+	Doing a RTS game. as example:
+	Denerate a map
+		Data manipulation and algorithms
+	Units (N)
+		implement spatial (space), a unit should detect the neighbors
+		path finding
+		boids movement
+		sort distance enemies
+

@@ -29,9 +29,9 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="HighlightingSettingsPerFile">
-    <setting file="file://$PROJECT_DIR$/Assets/Lib/CollectionsExtensions.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lib/TestPerlinNoise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lib/TextureExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Lib/CollectionsExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -42,6 +42,7 @@
         <option value="$PROJECT_DIR$/Assets/Lib/TextureExtensions.cs" />
         <option value="$PROJECT_DIR$/Assets/Lib/PerlinNoise.cs" />
         <option value="$PROJECT_DIR$/Assets/Lib/TestPerlinNoise.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/PerrlinToTerrain.cs" />
       </list>
     </option>
   </component>
@@ -90,6 +91,7 @@
       <workItem from="1605098242057" duration="509000" />
       <workItem from="1605099197132" duration="3000" />
       <workItem from="1605099487049" duration="5787000" />
+      <workItem from="1605171436536" duration="6558000" />
     </task>
     <servers />
   </component>
