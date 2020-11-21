@@ -31,6 +31,11 @@
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/Assets/Lib/TestPerlinNoise.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lib/TextureExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeWall.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeCellEdge.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MazeGeneration/Scripts/Maze.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeCell.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeDirection.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Lib/CollectionsExtensions.cs" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="IdeDocumentHistory">
@@ -43,6 +48,13 @@
         <option value="$PROJECT_DIR$/Assets/Lib/PerlinNoise.cs" />
         <option value="$PROJECT_DIR$/Assets/Lib/TestPerlinNoise.cs" />
         <option value="$PROJECT_DIR$/Assets/Scripts/Terrain/PerrlinToTerrain.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeGeneration.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeWall.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazePassage.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeCellEdge.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeDirection.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/Maze.cs" />
+        <option value="$PROJECT_DIR$/Assets/MazeGeneration/Scripts/MazeCell.cs" />
       </list>
     </option>
   </component>
@@ -92,6 +104,8 @@
       <workItem from="1605099197132" duration="3000" />
       <workItem from="1605099487049" duration="5787000" />
       <workItem from="1605171436536" duration="6558000" />
+      <workItem from="1605701959973" duration="9489000" />
+      <workItem from="1605787895894" duration="9238000" />
     </task>
     <servers />
   </component>
@@ -114,5 +128,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="41" y="220" key="SettingsEditor" timestamp="1605797342410">
+      <screen x="0" y="0" width="1920" height="1160" />
+    </state>
+    <state x="41" y="220" key="SettingsEditor/0.0.1920.1160/-1920.0.1280.680@0.0.1920.1160" timestamp="1605797342410" />
   </component>
 </project>
